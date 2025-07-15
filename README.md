@@ -2,7 +2,6 @@
 
 Automatically detect and classify workouts like **pushups, squats, and burpees** using live sensor data from the device’s **accelerometer and gyroscope**, processed through a trained CoreML model.
 
----
 
 ## 📲 Features
 
@@ -12,7 +11,6 @@ Automatically detect and classify workouts like **pushups, squats, and burpees**
 - 📱 SwiftUI-based beautiful iOS interface
 - 🔒 Processes data fully offline — privacy-friendly
 
----
 
 ## 🛠 Tech Stack
 
@@ -22,7 +20,6 @@ Automatically detect and classify workouts like **pushups, squats, and burpees**
 - SwiftUI
 - Xcode 15+
 
----
 
 ## 🚀 How to Install & Run
 
@@ -44,7 +41,6 @@ Automatically detect and classify workouts like **pushups, squats, and burpees**
    - Tap “Run” on Xcode
    - The app will display predicted workout activity in real-time
 
----
 
 ## 📌 Use Cases
 
@@ -53,6 +49,5 @@ Automatically detect and classify workouts like **pushups, squats, and burpees**
 - Smart gym companions
 - Research in biomechanics
 
----
 
 ⚡ Track your moves. Train smarter. Stay healthier.
